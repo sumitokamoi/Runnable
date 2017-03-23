@@ -1,18 +1,18 @@
 {
   "name": "Runnable",
   "version": "0.1.0",
-  "summary": "A short description of Runnable.",
+  "summary": "Runnable",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/sumisonic/Runnable",
+  "homepage": "https://github.com/sumitokamoi/Runnable",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "sumisonic": "sumisonic@gmail.com"
+    "sumitokamoi": "sumito@rhizomatiks.com"
   },
   "source": {
-    "git": "https://github.com/sumisonic/Runnable.git",
+    "git": "https://github.com/sumitokamoi/Runnable.git",
     "tag": "0.1.0"
   },
   "platforms": {
