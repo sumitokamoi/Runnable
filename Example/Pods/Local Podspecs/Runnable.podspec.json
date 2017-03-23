@@ -1,0 +1,22 @@
+{
+  "name": "Runnable",
+  "version": "0.1.0",
+  "summary": "A short description of Runnable.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sumisonic/Runnable",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sumisonic": "sumisonic@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sumisonic/Runnable.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Runnable/Classes/**/*"
+}
