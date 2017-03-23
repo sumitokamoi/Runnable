@@ -73,7 +73,7 @@ open class RnSerial: Runnable {
 
 // Mark: - Array extension
 fileprivate extension Array {
-    public var decompose : (head: Element, tail: [Element])? {
+    fileprivate var decompose : (head: Element, tail: [Element])? {
         return (count > 0) ? (self[0], Array(self[1..<count])) : nil
     }
 }
