@@ -21,7 +21,7 @@ open class RnWait: Runnable {
     
     public func run(completion: @escaping () -> Void) {
         self.completion = completion
-        var timer = Timer.scheduledTimer(timeInterval: self.time,
+        self.timer = Timer.scheduledTimer(timeInterval: self.time,
                                          target: self,
                                          selector: #selector(self.update),
                                          userInfo: nil,
